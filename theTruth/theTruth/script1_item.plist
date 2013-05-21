@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>detailImage</key>
+		<string></string>
+		<key>available</key>
+		<true/>
+		<key>name</key>
+		<string>Jessica Smith&apos;s Anatomical Record</string>
+		<key>details</key>
+		<string>Death time: July 31st. 1600 - 1700 pm. Hit by blunt tool. Bled to death.</string>
+		<key>image</key>
+		<string>recordDeathFile</string>
+	</dict>
+	<dict>
+		<key>detailImage</key>
+		<string></string>
+		<key>available</key>
+		<true/>
+		<key>name</key>
+		<string>Thinker</string>
+		<key>details</key>
+		<string>A statue. Shape is like a thinker. Very heavy. Killing tool in this case.</string>
+		<key>image</key>
+		<string>recordThinker</string>
+	</dict>
+	<dict>
+		<key>detailImage</key>
+		<string></string>
+		<key>available</key>
+		<true/>
+		<key>name</key>
+		<string>Jessica Smith&apos;s Passport</string>
+		<key>details</key>
+		<string>The day before the case, namely July 30th. She went back from New York</string>
+		<key>image</key>
+		<string>recordPassport</string>
+	</dict>
+	<dict>
+		<key>detailImage</key>
+		<string></string>
+		<key>available</key>
+		<true/>
+		<key>name</key>
+		<string>Record of outage of electricity</string>
+		<key>details</key>
+		<string>The day the case happened, the whole building is out of electricity from 1 pm to 6 pm.</string>
+		<key>image</key>
+		<string>recordElecOutage</string>
+	</dict>
+</array>
+</plist>

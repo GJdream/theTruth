@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>available</key>
+		<true/>
+		<key>name</key>
+		<string>Jenny Green</string>
+		<key>details</key>
+		<string>My boss. A brilliant lawyer. My teacher.</string>
+		<key>image</key>
+		<string>recordJenny</string>
+	</dict>
+	<dict>
+		<key>available</key>
+		<true/>
+		<key>name</key>
+		<string>Blake Wallace</string>
+		<key>details</key>
+		<string>The prosecutor of this case. He looks kind of nerd. Not a successful prosecutor.</string>
+		<key>image</key>
+		<string>recordBlake</string>
+	</dict>
+	<dict>
+		<key>available</key>
+		<true/>
+		<key>name</key>
+		<string>Jessica Smith</string>
+		<key>details</key>
+		<string>The victim in this case. Living in an apartment. Tom&apos;s girlfriend.</string>
+		<key>image</key>
+		<string>recordJessica</string>
+	</dict>
+	<dict>
+		<key>available</key>
+		<true/>
+		<key>name</key>
+		<string>Tom Bird</string>
+		<key>details</key>
+		<string>The defendant in this case. My classmate in my high school. A good man.</string>
+		<key>image</key>
+		<string>recordTom</string>
+	</dict>
+</array>
+</plist>
